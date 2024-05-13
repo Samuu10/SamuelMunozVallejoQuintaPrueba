@@ -27,4 +27,4 @@ Los patrones de diseño son soluciones probadas para problemas comunes en el des
 
 En conjunto, estos patrones de diseño proporcionan una estructura sólida y modular para el sistema de gestión de restaurantes, garantizando una implementación eficiente, flexible y fácil de mantener. Además se han agregado pruebas unitarias de los métodos complejos para comprobar el correcto funcionamiento del programa.
 
-Link al repositorio: 
+Link al repositorio: https://github.com/Samuu10/SamuelMunozVallejoQuintaPrueba.git
