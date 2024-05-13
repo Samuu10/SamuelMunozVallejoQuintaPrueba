@@ -6,9 +6,7 @@ public class GestionRestaurantes {
     private static GestionRestaurantes instancia;
 
     //Constructor
-    private GestionRestaurantes() {
-        this.instancia = null;
-    }
+    private GestionRestaurantes() {}
 
     //Método para obtener la instancia
     public static GestionRestaurantes obtenerInstancia() {
